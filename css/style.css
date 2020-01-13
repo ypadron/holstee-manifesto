@@ -1,0 +1,134 @@
+* {
+  padding: 0px;
+  margin: 0px;
+
+}
+
+
+body  {
+
+    width: 658px;
+    line-height: 1.1;
+    border: 1px solid black;
+    font-family: 'Arvo', serif;
+    margin: 0 auto;
+
+
+}
+
+main  {
+
+    margin: 25px;
+    border: 1px solid black;
+    text-transform: UPPERCASE;
+
+
+}
+
+p {
+  font-size: 20px;
+  font-weight: regular;
+
+
+
+}
+
+.larger-font  {
+  font-size: 52px;
+
+}
+
+.lg-font  {
+  font-size:  38px;
+
+}
+
+.md-lg-font {
+  font-size:  30px;
+
+}
+
+.med-font {
+
+  font-size: 26px;
+
+}
+
+/*.intro  {
+
+
+}
+*/
+.left-para {
+    float: left;
+    padding-right: 10px;
+    border: 1px solid blue;
+
+}
+
+.right-para {
+    float: left;
+    border: 1px solid red;
+}
+
+.life p {
+
+    font-size: 90px;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+.regular  {
+      clear: both;
+      border: 1px solid black;
+
+
+}
+
+.regular p {
+
+
+}
+
+.analyze  {
+
+
+}
+
+.emotions p {
+    font-size:  16px;
+
+
+
+}
+
+.travel  {
+    /*padding-right: 20px;*/
+
+}
+
+.short-life p {
+  font-size: 70px;
+  /*font-weight: bold;*/
+
+}
+
+
+footer {
+
+    clear: both;
+    padding-top: 2px;
+    text-align: center;
+
+}
+
+footer p {
+
+  font-size:  10px;
+  display: inline;
+}
+
+
+.signature {
+  font-family: cursive;
+}
